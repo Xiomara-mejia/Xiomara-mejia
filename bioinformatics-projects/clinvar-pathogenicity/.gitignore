@@ -1,0 +1,8 @@
+data/raw/
+__pycache__/
+.vscode/
+.venv/
+*.ipynb_checkpoints
+reports/*.png
+reports/*.csv
+
